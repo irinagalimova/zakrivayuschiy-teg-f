@@ -1,3 +1,5 @@
+/* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+
 :root {
   --accent-font: 'Press Start 2P'; 
   --main-font: Inter;
@@ -7,5 +9,4 @@
   --border-black: 2px solid #000;
   --accent-color: #000;
   --main-color: #fff;
-  --animation-fill-color: #ff0000;
 }
